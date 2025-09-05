@@ -24,3 +24,6 @@ python main.py\
 Choose a PDF file when prompted.\
 Select a voice from the list.\
 The program will read the PDF aloud.
+
+
+Done with tutorial found on YouTube: https://www.youtube.com/watch?v=Flm2YHEFd5A
